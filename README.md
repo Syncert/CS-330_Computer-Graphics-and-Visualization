@@ -30,7 +30,7 @@ I develop programs in an iterative process. By being methodical in the planning 
 The newest development strategy I used in this course was tweaking values. The Graphics Computing process has a lot of rendering steps that lend themselves to experimentation. I regularly found myself altering the vertex and indice calculation steps of a Mesh, or changing the orientation of objects in their x, y, z coordinates. Additionally the lighting calculations were a lot of fun to experiment with. 
 
 *How did iteration factor into your development?*
-Iteration was a weekly process within this course. I found that with the graphics rendering pipeline the best way to learn was to break everything down into the smallest steps possible and build iteratively. I spent many 3-6 hour codding sessions going step-by-step to avoid simple mistakes.
+Iteration was a weekly process within this course. I found that with the graphics rendering pipeline the best way to learn was to break everything down into the smallest steps possible and build iteratively. I spent many 3-6 hour coding sessions going step-by-step to avoid simple mistakes.
 
 *How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?*
 My approach to development evolved a lot during this course. The focus on Program Organization and Modularization really helped me evolve. It's extremely advantageous to have a program organized in a manner that adding or removing resources and functionality is straightforward. I learned to think "A place for a process" instead of grouping a lot of functionality in singular areas.
